@@ -4,6 +4,8 @@ body {
 .top-banner {
     position: relative;
         width: 100%;
+        margin-left: 2%;
+        margin-right: 2%;
         padding: auto;
         margin: auto;
 }
