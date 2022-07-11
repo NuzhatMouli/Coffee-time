@@ -1,0 +1,32 @@
+body {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+.top-banner {
+    position: relative;
+        width: 100%;
+        padding: auto;
+        margin: auto;
+}
+.header-1 {
+    margin-left: 5%;
+    font-size: xx-large;
+    font-weight: 700;
+    font-stretch:ultra-expanded;
+font-style: italic;
+font-feature-settings: "abvm";
+font-kerning: auto;
+}
+.para-1 {
+    top:50%;
+    width: 50%;
+    padding: 5%;
+    text-align: left;
+}
+.maxsize {
+font-size: x-large;
+}
+.side-pic-1{
+    width:40%;
+    padding:5%;
+    image-orientation: right;
+}
