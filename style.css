@@ -6,10 +6,15 @@ body {
         width: 100%;
         margin-left: 2%;
         margin-right: 2%;
+        padding-bottom: 5%;
         padding: auto;
         margin: auto;
 }
 .header-1 {
+    position: absolute;
+    Top:65%;
+    right: 15%;
+    text-align: center;
     margin-left: 5%;
     font-size: xx-large;
     font-weight: 700;
@@ -19,16 +24,24 @@ font-feature-settings: "abvm";
 font-kerning: auto;
 }
 .para-1 {
-    top:50%;
+    position: absolute;
+    top:70%;
     width: 50%;
+    margin-left: 60px;
     padding: 5%;
     text-align: left;
+   
 }
 .maxsize {
-font-size: x-large;
+font-size:xx-large;
+position: relative;
+padding: 5%;
+
 }
 .side-pic-1{
-    width:40%;
-    padding:5%;
-    image-orientation: right;
+    position: absolute;
+    width:100%;
+    padding:14px;
+    display: flex;
+    margin-left: 20%;
 }
