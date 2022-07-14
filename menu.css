@@ -1,0 +1,44 @@
+body {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+.top-banner {
+    position: relative;
+    width: 100%;
+    padding: auto;
+    margin: auto;
+    background-image: linear-gradient(rgb(198, 191, 191), rgb(193, 186, 186))
+}
+
+.header-1 {
+    position: absolute;
+    top: 280px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 400%;
+    color: azure
+    
+}
+
+.para-1 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: medium;
+    color: white;
+    font-weight: 1100;
+    font-size: xx-large;
+}
+.link-button {
+    position: absolute;
+    Top: 90%;
+    Left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: linear-gradient(rgba(14, 1, 1, 0.865), rgb(19, 18, 18));
+    color: white;
+    font-weight: 300;
+    padding: 10px 35px;
+    border-radius: 25px;
+    font-size: x-large;
+}
