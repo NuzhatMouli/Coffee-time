@@ -15,7 +15,7 @@ body {
     Top:65%;
     right: 15%;
     text-align: center;
-    margin-left: 5%;
+    margin-left: 2%;
     font-size: xx-large;
     font-weight: 700;
     font-stretch:ultra-expanded;
@@ -23,25 +23,26 @@ font-style: italic;
 font-feature-settings: "abvm";
 font-kerning: auto;
 }
+.container-2{
+    display: flex;
+}
 .para-1 {
-    position: absolute;
-    top:70%;
-    width: 50%;
-    margin-left: 60px;
-    padding: 5%;
-    text-align: left;
-   
+    width: 40%;
+        padding-left: 5%;
+        font-size: larger;
+        margin-left: 60px;
 }
 .maxsize {
 font-size:xx-large;
 position: relative;
-padding: 5%;
 
 }
-.side-pic-1{
-    position: absolute;
-    width:100%;
-    padding:14px;
-    display: flex;
-    margin-left: 20%;
+.side-pic1{
+width: 38%;
+bottom:50%;
+margin-left: 70px;
+position: relative;
+padding-bottom: 10%;
+
+
 }

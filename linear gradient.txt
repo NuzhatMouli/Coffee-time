@@ -1,0 +1,7 @@
+Try linear gradient property of along with url like-->
+background-image: linear-gradient(
+to right,
+rgba(0, 0, 0, 0.904),
+rgba(255, 255, 255, 0.089)
+),
+url("https://prod-media-eng.dhakatribune.com/.../mehedi...");
